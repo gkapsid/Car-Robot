@@ -1,6 +1,13 @@
 # Car-Robot
 Car Robot construction from EDX Berkley EE40LX: Eletronic Interfaces: Bridging the Physical and Digital Worlds
 
+The robot:
+
+* Responds to sound producing a sound in buzzer
+* Responds to light
+* Moves two motors
+ 
+
 ## Files
 
 
@@ -25,3 +32,6 @@ For example the op amp was a LM358, the Wheatstone bridge was made with restisto
 ## Notes
 
 ## Final product
+A video of the working robot
+https://www.youtube.com/watch?v=ht8JPkVpmTk
+
